@@ -1,0 +1,11 @@
+{
+    "email": "samarthdas2004@gmail.com",
+    "password": "p@ssw0rd",
+    "product": "Blue Top",
+    "quantity": 2,
+    "name_on_card": "Test User",
+    "card_number": "4111111111111111",
+    "cvc": "123",
+    "expiry_month": "12",
+    "expiry_year": "2030"
+}
